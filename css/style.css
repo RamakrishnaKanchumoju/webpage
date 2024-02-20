@@ -1,0 +1,38 @@
+head{
+    display: block;
+}
+
+body {
+    margin: auto;
+    padding: auto;
+    display: block;
+    font-family: sans-serif, fantasy, sans-serif;
+}
+
+.top-class {
+    text-align: center;
+    
+}
+
+h1 {
+    color: white;
+    background-color: black;
+    text-align: center;
+	font-size: 30px;
+    font-family: serif;
+    font-weight: bold;
+    margin: 0px;
+    line-height: 1.25;
+}
+
+img {
+    width: 35%;
+    height: auto;
+    display: block;
+    margin: 0 auto ;
+    overflow: visible;
+}
+
+h2 {
+    text-decoration: underline;
+}
